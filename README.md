@@ -4,7 +4,7 @@ You found me!
 
 Here's a little about me:
 
-- 🔭 I’m currently working on world peace and making the world a more meaningful place to live.
+- 🔭 I’m currently working on an application to make it easier for various apps to communicate with each other better.
 - 🌱 I’m currently learning neo4j.
 - 👯 I’m looking to collaborate on cool projects.
 - 🤔 I’m looking for help with Bash. Reach out to learn more.
